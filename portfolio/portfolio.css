@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color:aqua;
+  }
+  body {
+    background-color: gray;
+  }
+  #navbar {
+    position: fixed;
+    top: 0;
+  }
+  #welcome-section {
+    height: 100vw;
+  }
+  @media {
+    a:hover {
+  color: yellow;
+    }
+  }
